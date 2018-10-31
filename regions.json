@@ -1,0 +1,62 @@
+[
+  {
+    "code": 15,
+    "name": "De Arica y Parinacota"
+  },
+  {
+    "code": 1,
+    "name": "De Tarapacá"
+  },
+  {
+    "code": 2,
+    "name": "De Antofagasta"
+  },
+  {
+    "code": 3,
+    "name": "De Atacama"
+  },
+  {
+    "code": 4,
+    "name": "De Coquimbo"
+  },
+  {
+    "code": 5,
+    "name": "De Valparaíso"
+  },
+  {
+    "code": 6,
+    "name": "Del Libertador B. O'Higgins"
+  },
+  {
+    "code": 7,
+    "name": "Del Maule"
+  },
+  {
+    "code": 8,
+    "name": "Del Bíobío"
+  },
+  {
+    "code": 9,
+    "name": "De La Araucanía"
+  },
+  {
+    "code": 14,
+    "name": "De Los Ríos"
+  },
+  {
+    "code": 10,
+    "name": "De Los Lagos"
+  },
+  {
+    "code": 11,
+    "name": "De Aisén del Gral. C. Ibáñez del Campo"
+  },
+  {
+    "code": 12,
+    "name": "De Magallanes y de La Antártica Chilena"
+  },
+  {
+    "code": 13,
+    "name": "Metropolitana de Santiago"
+  }
+]
