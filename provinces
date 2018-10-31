@@ -1,0 +1,272 @@
+[
+  {
+    "code": 151,
+    "name": "Arica",
+    "code_reg": 15
+  },
+  {
+    "code": 152,
+    "name": "Parinacota",
+    "code_reg": 15
+  },
+  {
+    "code": 11,
+    "name": "Iquique",
+    "code_reg": 1
+  },
+  {
+    "code": 14,
+    "name": "Tamarugal",
+    "code_reg": 1
+  },
+  {
+    "code": 21,
+    "name": "Antofagasta",
+    "code_reg": 2
+  },
+  {
+    "code": 22,
+    "name": "El Loa",
+    "code_reg": 2
+  },
+  {
+    "code": 23,
+    "name": "Tocopilla",
+    "code_reg": 2
+  },
+  {
+    "code": 31,
+    "name": "Copiapó",
+    "code_reg": 3
+  },
+  {
+    "code": 32,
+    "name": "Chañaral",
+    "code_reg": 3
+  },
+  {
+    "code": 33,
+    "name": "Huasco",
+    "code_reg": 3
+  },
+  {
+    "code": 41,
+    "name": "Elqui",
+    "code_reg": 4
+  },
+  {
+    "code": 42,
+    "name": "Choapa",
+    "code_reg": 4
+  },
+  {
+    "code": 43,
+    "name": "Limari",
+    "code_reg": 4
+  },
+  {
+    "code": 51,
+    "name": "Valparaíso",
+    "code_reg": 5
+  },
+  {
+    "code": 58,
+    "name": "Marga Marga",
+    "code_reg": 5
+  },
+  {
+    "code": 52,
+    "name": "Isla de Pascua",
+    "code_reg": 5
+  },
+  {
+    "code": 53,
+    "name": "Los Andes",
+    "code_reg": 5
+  },
+  {
+    "code": 54,
+    "name": "Petorca",
+    "code_reg": 5
+  },
+  {
+    "code": 55,
+    "name": "Quillota",
+    "code_reg": 5
+  },
+  {
+    "code": 56,
+    "name": "San Antonio",
+    "code_reg": 5
+  },
+  {
+    "code": 57,
+    "name": "San Felipe",
+    "code_reg": 5
+  },
+  {
+    "code": 61,
+    "name": "Cachapoal",
+    "code_reg": 6
+  },
+  {
+    "code": 62,
+    "name": "Cardenal Caro",
+    "code_reg": 6
+  },
+  {
+    "code": 63,
+    "name": "Colchagua",
+    "code_reg": 6
+  },
+  {
+    "code": 71,
+    "name": "Talca",
+    "code_reg": 7
+  },
+  {
+    "code": 72,
+    "name": "Cauquenes",
+    "code_reg": 7
+  },
+  {
+    "code": 73,
+    "name": "Curico",
+    "code_reg": 7
+  },
+  {
+    "code": 74,
+    "name": "Linares",
+    "code_reg": 7
+  },
+  {
+    "code": 81,
+    "name": "Concepción",
+    "code_reg": 8
+  },
+  {
+    "code": 82,
+    "name": "Arauco",
+    "code_reg": 8
+  },
+  {
+    "code": 83,
+    "name": "Bío- Bío",
+    "code_reg": 8
+  },
+  {
+    "code": 84,
+    "name": "Ñuble",
+    "code_reg": 8
+  },
+  {
+    "code": 91,
+    "name": "Cautín",
+    "code_reg": 9
+  },
+  {
+    "code": 92,
+    "name": "Malleco",
+    "code_reg": 9
+  },
+  {
+    "code": 141,
+    "name": "Valdivia",
+    "code_reg": 14
+  },
+  {
+    "code": 142,
+    "name": "Ranco",
+    "code_reg": 14
+  },
+  {
+    "code": 101,
+    "name": "Llanquihue",
+    "code_reg": 10
+  },
+  {
+    "code": 102,
+    "name": "Chiloe",
+    "code_reg": 10
+  },
+  {
+    "code": 103,
+    "name": "Osorno",
+    "code_reg": 10
+  },
+  {
+    "code": 104,
+    "name": "Palena",
+    "code_reg": 10
+  },
+  {
+    "code": 111,
+    "name": "Coihaique",
+    "code_reg": 11
+  },
+  {
+    "code": 112,
+    "name": "Aisén",
+    "code_reg": 11
+  },
+  {
+    "code": 113,
+    "name": "Capitan Prat",
+    "code_reg": 11
+  },
+  {
+    "code": 114,
+    "name": "General Carrera",
+    "code_reg": 11
+  },
+  {
+    "code": 121,
+    "name": "Magallanes",
+    "code_reg": 12
+  },
+  {
+    "code": 122,
+    "name": "Antártica Chilena",
+    "code_reg": 12
+  },
+  {
+    "code": 123,
+    "name": "Tierra del Fuego",
+    "code_reg": 12
+  },
+  {
+    "code": 124,
+    "name": "Ultima Esperanza",
+    "code_reg": 12
+  },
+  {
+    "code": 131,
+    "name": "Santiago",
+    "code_reg": 13
+  },
+  {
+    "code": 132,
+    "name": "Cordillera",
+    "code_reg": 13
+  },
+  {
+    "code": 133,
+    "name": "Chacabuco",
+    "code_reg": 13
+  },
+  {
+    "code": 134,
+    "name": "Maipo",
+    "code_reg": 13
+  },
+  {
+    "code": 135,
+    "name": "Melipilla",
+    "code_reg": 13
+  },
+  {
+    "code": 136,
+    "name": "Talagante",
+    "code_reg": 13
+  }
+]
