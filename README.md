@@ -1,4 +1,4 @@
-# regiones
+# Regiones
 Regiones, Provincias y Comunas de Chile en JSON
 
 Información obtenida desde el [sitio web oficial](http://www.deis.cl/) del Departamento de Estadísticas e Información de Salud (DEIS).
